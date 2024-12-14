@@ -1366,7 +1366,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 324e514cb47af464e9b7e626d6291b02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startButton: {fileID: 0}
+  startButton: {fileID: 23390698}
   playerNameInputField: {fileID: 91081482}
   sceneName: LevelScene
 --- !u!1660057539 &9223372036854775807
